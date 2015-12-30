@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Charlie Anderson: Director of Photography]]></title>
         <description><![CDATA[Charlie Anderson: Director of Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/charlie-anderson-director-of-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 17:43:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 17:44:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charlie-anderson-director-of-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbccbb20-73c2-4fbc-a5c1-f5f3c2ffed5c.jpg">]]></description>
-            <link>undefined1e296b0f-bdd7-4905-b3be-3dc273720e55/index.html</link>
+            <link>https://thegrid.ai/charlie-anderson-director-of-photography/1e296b0f-bdd7-4905-b3be-3dc273720e55/index.html</link>
             <guid isPermaLink="false">1e296b0f-bdd7-4905-b3be-3dc273720e55</guid>
-            <pubDate>Wed, 30 Dec 2015 17:43:12 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 17:44:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
