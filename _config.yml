@@ -1,0 +1,28 @@
+name: 'Charlie Anderson: Director of Photography'
+favicon: null
+layout_spectrum: 0.9595891830977052
+typography_spectrum: 0.4067456137854606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5961704847868532
+  lightness: 0.7613333454355597
+  saturation: 0.8035130009520799
+  rhythmicContrast: 0.79752615862526
+purpose: []
