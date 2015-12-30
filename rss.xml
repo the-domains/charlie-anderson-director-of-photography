@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Charlie Anderson: Director of Photography]]></title>
+        <description><![CDATA[Charlie Anderson: Director of Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 16:41:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Al Packer Ford: We Do Things a Little Differently]]></title>
+            <description><![CDATA[<article><h1>Al Packer Ford: We Do Things a Little Differently</h1><p>Commercial for Al Packer produced by Hack|Stone</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ad9fd2a741509d4e8e9926d6037dc085399dc05.png"></article>]]></description>
+            <link>undefinedal-packer-ford-we-do-things-a-little-differently/index.html</link>
+            <guid isPermaLink="false">e8f9c7ea-b0f2-4125-a20a-148bd33b3119</guid>
+            <pubDate>Wed, 30 Dec 2015 16:41:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
