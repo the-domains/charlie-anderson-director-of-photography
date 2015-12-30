@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'A commercial I shot for the AUA/NFL Spot, played at the Superbowl in 2015'
-datePublished: '2015-12-30T17:16:07.692Z'
-dateModified: '2015-12-30T17:16:04.639Z'
+description: 'A commercial for the AUA/NFL, played at the Superbowl in 2015'
+datePublished: '2015-12-30T17:18:49.884Z'
+dateModified: '2015-12-30T17:18:47.156Z'
 title: NFL/AUA Superbowl Ad
 author: []
 sourcePath: _posts/2015-12-30-nflaua-promo.md
