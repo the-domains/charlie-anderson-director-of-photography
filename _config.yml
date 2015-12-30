@@ -1,6 +1,6 @@
 name: 'Charlie Anderson: Director of Photography'
 favicon: null
-layout_spectrum: 0.9595891830977052
+layout_spectrum: 1
 typography_spectrum: 0.4067456137854606
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5961704847868532
+  brandStrength: 0.75
   lightness: 0.7613333454355597
   saturation: 0.8035130009520799
   rhythmicContrast: 0.79752615862526
